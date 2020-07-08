@@ -21,4 +21,5 @@ Seu programa deve escrever uma única linha, contendo apenas a letra S se a caix
 letra N em caso contrário.
 # Restrições
 • 1 ≤ A, B, C ≤ 100
+
 • 1 ≤ H, L ≤ 100
