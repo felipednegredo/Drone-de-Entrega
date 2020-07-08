@@ -21,7 +21,7 @@ L, indicando a altura e a largura da janela, em centímetros.
 ### Saída:
 Seu programa deve escrever uma única linha, contendo apenas a letra S se a caixa passa pela janela e apenas a
 letra N em caso contrário.
-### Restrições
+### Restrições:
 • 1 ≤ A, B, C ≤ 100
 
 • 1 ≤ H, L ≤ 100
